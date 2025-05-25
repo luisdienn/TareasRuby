@@ -49,6 +49,26 @@
   background-color: red;
 }
 
+.bg-yellow {
+  background-color: yellow;
+}
+
+.bg-green {
+  background-color: green;
+}
+
+.color-black {
+  color: black;
+}
+
+.hover-yellow:hover {
+  background-color: gold;
+}
+
+.hover-green:hover {
+  background-color: lightgreen;
+}
+
 .border-5 {
   border: 5px solid black;
 }

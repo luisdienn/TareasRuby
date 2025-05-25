@@ -20,6 +20,13 @@ function Home() {
       >
         To Do List
       </Link>
+
+      <Link 
+        to="/todo-video" 
+        className="link-button"
+      >
+        To Do List Video
+      </Link>
     </div>
     </>
   )
